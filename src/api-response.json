@@ -1,0 +1,81 @@
+{
+  "notifications": [
+    {
+      "name": "Mark Webber",
+      "avatar": "/images/avatar-mark-webber.webp",
+      "action": "reacted",
+      "reference_name": "My first tournament today!",
+      "reference_link": "#",
+      "message": "",
+      "picture": "",
+      "time": "1m ago",
+      "unread": "1"
+    },
+    {
+      "name": "Angela Gray",
+      "avatar": "/images/avatar-angela-gray.webp",
+      "action": "followed",
+      "reference_name": "",
+      "reference_link": "",
+      "message": "",
+      "picture": "",
+      "time": "5m ago",
+      "unread": "1"
+    },
+    {
+      "name": "Jacob Thompson",
+      "avatar": "/images/avatar-jacob-thompson.webp",
+      "action": "joined",
+      "reference_name": "Chess Club",
+      "reference_link": "#",
+      "message": "",
+      "picture": "",
+      "time": "1 day ago",
+      "unread": "1"
+    },
+    {
+      "name": "Rizky Hasanuddin",
+      "avatar": "/images/avatar-rizky-hasanuddin.webp",
+      "action": "message",
+      "reference_name": "",
+      "reference_link": "",
+      "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+      "picture": "",
+      "time": "5 days ago",
+      "unread": ""
+    },
+    {
+      "name": "Kimberly Smith",
+      "avatar": "/images/avatar-kimberly-smith.webp",
+      "action": "commented",
+      "reference_name": "",
+      "reference_link": "",
+      "message": "",
+      "picture": "/images/image-chess.webp",
+      "time": "1 week ago ago",
+      "unread": ""
+    },
+    {
+      "name": "Nathan Peterson",
+      "avatar": "/images/avatar-nathan-peterson.webp",
+      "action": "reacted",
+      "reference_name": "5 end-game strategies to increase your win rate",
+      "reference_link": "",
+      "message": "",
+      "picture": "",
+      "time": "2 weeks ago",
+      "unread": ""
+    },
+    {
+      "name": "Anna Kim",
+      "avatar": "/images/avatar-anna-kim.webp",
+      "action": "left",
+      "reference_name": "Chess Club",
+      "reference_link": "",
+      "message": "",
+      "picture": "",
+      "time": "2 weeks ago",
+      "unread": ""
+    }
+  ]
+}

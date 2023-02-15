@@ -20,9 +20,9 @@ function App() {
   ));
 
   return (
-    <div className="container mx-auto px-3 md:px-2 max-w-2xl">
+    <div className="container mx-auto px-3 md:px-7 pt-3 md:pt-5 md:my-12 max-w-3xl bg-white rounded">
       {/* navbar */}
-      <div className="flex items-center my-8">
+      <div className="flex items-center my-6">
         <div className="font-extrabold text-lg">Notifications</div>
         <div className="font-extrabold text-white bg-blue-900 px-3 rounded ml-2 text-lg">
           {count}

@@ -23,7 +23,7 @@ function Notification(props) {
     case "joined":
       action = (
         <span>
-          <span className="ml-2">has joined your group</span>{" "}
+          <span className="ml-2">has joined your group</span>&nbsp;
           <a
             href="/"
             className="font-bold text-gray-500 hover:text-blue-900 ml-2"
@@ -42,7 +42,7 @@ function Notification(props) {
     case "left":
       action = (
         <span>
-          <span className="ml-2">left the group</span>{" "}
+          <span className="ml-2">left the group</span>&nbsp;
           <a
             href="/"
             className="font-bold text-gray-500 hover:text-blue-900 ml-2"

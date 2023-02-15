@@ -83,8 +83,8 @@ function Notification(props) {
   }
 
   return (
-    <div>
-      <div className="flex flex-row text-gray-500 my-10">
+    <div className={"rounded py-3 my-2 " + (props.unread ? "bg-unread" : "")}>
+      <div className="flex flex-row text-gray-500">
         <div className="px-5">
           <img
             className="w-10 max-w-sm"
